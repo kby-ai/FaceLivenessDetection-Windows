@@ -1,0 +1,5 @@
+
+__pycache__/facebox.cpython-38.pyc
+__pycache__/facesdk.cpython-38.pyc
+*.bin
+lib/facesdk1.dll
