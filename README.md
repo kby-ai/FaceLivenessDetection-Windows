@@ -16,7 +16,7 @@
 
 # FaceLivenessDetection-Windows
 ## Introduction
-This is the face liveness detection demo project for windows.
+This is the Face Liveness Detection Python project for Windows.
 
 > The demo is integrated with KBY-AI's Face Liveness Detection Server SDK.
 
