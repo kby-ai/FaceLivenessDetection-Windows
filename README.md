@@ -86,7 +86,7 @@ This project uses KBY-AI's Face Liveness Detection Server SDK, which requires a 
   - RAM: 4 GB or more (Recommended: 8 GB)
   - HDD: 4 GB or more (Recommended: 8 GB)
   - OS: Windows 7 or later
-  - Dependency: OpenVINO™ Runtime (Version: 2022.3)
+  - Dependency: OpenVINO™ Runtime (Version: 2022.3), ncnn Runtime(20220721) or later, Vulkan SDK Runtime(1.3.250)
 
 ### 2. Setup and Test
   - Clone the project:
