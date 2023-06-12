@@ -22,17 +22,17 @@ This is the face liveness detection demo project for windows.
 
 > We can customize the SDK to align with your specific requirements.
 
-  | Features      |
-  |------------------|
-  | Face Detection        |
-  | Face Liveness Detection        |
-  | Pose Estimation        |
-  | 68 points Face Landmark Detection        |
-  | Face Quality Calculation        |
-  | Face Occlusion Detection        |
-  | Eye Closure Detection        |
-  | Mouth Opening Check        |
- 
+  | Face Liveness Detection      | Face Recognition |
+  |------------------|------------------|
+  | Face Detection        | Face Detection    |
+  | Face Liveness Detection        | Face Recognition    |
+  | Pose Estimation        | Pose Estimation    |
+  | 68 points Face Landmark Detection        | 68 points Face Landmark Detection    |
+  | Face Quality Calculation        | Face Occlusion Detection        |
+  | Face Occlusion Detection        | Face Occlusion Detection        |
+  | Eye Closure Detection        | Eye Closure Detection       |
+  | Mouth Opening Check        | Mouth Opening Check        |
+
 > For other solutions, please explore the following:
 > - [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)
 > - [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)
