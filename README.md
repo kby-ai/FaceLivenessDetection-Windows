@@ -112,7 +112,9 @@ This project uses KBY-AI's Face Liveness Detection Server SDK, which requires a 
     ```
     python test.py
     ```
-  - Send us the machine code and replace the license.txt file you received. Then, run python code again.
+  - Send us the machine code and then we will give you a license key.
+  
+    After that, update the license.txt file by overwriting the license key that you received. Then, run python code again.
     
     ![image](https://github.com/kby-ai/FaceLivenessDetection-Windows/assets/125717930/345cb742-cef3-43b4-b46a-c84c94087826)
     
