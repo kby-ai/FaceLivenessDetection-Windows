@@ -11,32 +11,32 @@
 
 # FaceLivenessDetection-Windows
 ## Overview
-This is the Face Liveness Detection Python project for Windows.
+This repo is the Face Liveness Detection Python project for Windows.
 
-> The demo is integrated with KBY-AI's Face Liveness Detection Server SDK.
-
+> In this repo, we integrated KBY-AI's Face Liveness Detection solution into Windows Server SDK.<br/>
 > We can customize the SDK to align with your specific requirements.
 
-  | Face Liveness Detection      | Face Recognition |
+### ◾FaceSDK(Server) Details
+  | 🔽 Face Liveness Detection      | Face Recognition |
   |------------------|------------------|
-  | Face Detection        | Face Detection    |
-  | Face Liveness Detection        | Face Recognition    |
-  | Pose Estimation        | Pose Estimation    |
-  | 68 points Face Landmark Detection        | 68 points Face Landmark Detection    |
-  | Face Quality Calculation        | Face Occlusion Detection        |
-  | Face Occlusion Detection        | Face Occlusion Detection        |
-  | Eye Closure Detection        | Eye Closure Detection       |
-  | Mouth Opening Check        | Mouth Opening Check        |
+  | <b>Face Detection</b>        | Face Detection    |
+  | <b>Face Liveness Detection</b>        | Face Recognition(Face Matchin or Face Comparison)    |
+  | <b>Pose Estimation</b>        | Pose Estimation    |
+  | <b>68 points Face Landmark Detection</b>        | 68 points Face Landmark Detection    |
+  | <b>Face Quality Calculation</b>        | Face Occlusion Detection        |
+  | <b>Face Occlusion Detection</b>        | Face Occlusion Detection        |
+  | <b>Eye Closure Detection</b>        | Eye Closure Detection       |
+  | <b>Mouth Opening Check</b>        | Mouth Opening Check        |
 
-> For other solutions, please explore the following:</br>
-> [Face Liveness Detection - Android(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-Android)</br>
-> [Face Liveness Detection - iOS(Basic SDK)](https://github.com/kby-ai/FaceLivenessDetection-iOS)</br>
-> [Face Recognition - Android(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Android)</br>
-> [Face Recognition - iOS(Standard SDK)](https://github.com/kby-ai/FaceRecognition-iOS)</br>
-> [Face Recognition - Flutter(Standard SDK)](https://github.com/kby-ai/FaceRecognition-Flutter)</br>
-> [Face Recognition - React-Native(Standard SDK)](https://github.com/kby-ai/FaceRecognition-React-Native)</br>
-> [Face Attribute - Android(Premium SDK)](https://github.com/kby-ai/FaceAttribute-Android)</br>
-> [Face Attribute - iOS(Premium SDK)](https://github.com/kby-ai/FaceAttribute-iOS)</br>
+### ◾FaceSDK(Server) Product List
+  | No.      | Repository | SDK Details |
+  |------------------|------------------|------------------|
+  | 1        | [Face Liveness Detection - Linux](https://github.com/kby-ai/FaceLivenessDetection-Docker)    | Face Livness Detection |
+  | ➡️        | <b>[Face Liveness Detection - Windows](https://github.com/kby-ai/FaceLivenessDetection-Windows)</b>    | <b>Face Livness Detection</b> |
+  | 3        | [Face Recognition - Linux](https://github.com/kby-ai/FaceRecognition-Docker)    | Face Recognition |
+  | 4        | [Face Recognition - Windows](https://github.com/kby-ai/FaceRecognition-Windows)    | Face Recognition |
+
+> To get Face SDK(mobile), please visit products [here](https://github.com/kby-ai/Product):<br/>
 
 ## Try the API
 ### Online Demo
