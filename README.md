@@ -189,3 +189,5 @@ This project uses `KBY-AI`'s `Face Liveness Detection Server SD`, which requires
 ### 4. Thresholds
   The default thresholds are as the following below:
   https://github.com/kby-ai/FaceLivenessDetection-Windows/blob/e7ffeecc21f6053828a744e127ddef2e8a34c4a2/test.py#L13-L25
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFaceLivenessDetection-Windows&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkby-ai%2FFaceLivenessDetection-Windows)
